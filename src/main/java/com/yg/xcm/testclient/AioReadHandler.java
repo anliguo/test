@@ -49,4 +49,7 @@ public class AioReadHandler implements CompletionHandler<Integer, ByteBuffer> {
 		System.out.println(exc);
 	}
 
+	public static void main(String[] args) {
+
+	}
 }
